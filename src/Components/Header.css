@@ -1,0 +1,18 @@
+/* Custom CSS */
+.hoverable-image {
+    position: relative;
+    width: 200px; /* Set the width of your image */
+    height: 200px; /* Set the height of your image */
+    overflow: hidden;
+  }
+  
+  .hoverable-image img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s;
+  }
+  
+  .hoverable-image:hover img {
+    transform: scale(1.1); /* Adjust the scale factor as needed for zoom effect */
+  }
+  
