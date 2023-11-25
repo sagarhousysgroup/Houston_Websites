@@ -43,7 +43,7 @@ const Section1 = () => {
                         marginRight: "10px",
                       }}
                     />
-                    767676767676
+                    this is contact number 67676e3376
                   </a>
                 </div>
               </div>
